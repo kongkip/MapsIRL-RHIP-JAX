@@ -29,9 +29,8 @@ preferences.
 To set up the project, clone the repository and install the required packages.
 
 ```
-git clone [Your Repository URL]
-cd [Your Repository Name]
-pip install -r requirements.txt
+git clone https://github.com/kongkip/MapsIRL-RHIP-JAX.git
+cd MapsIRL-RHIP-JAX
 ```
 
 ## Usage
@@ -49,7 +48,7 @@ python main.py
 
 - `main.py`: The main script that sets up the environment and runs the RHIP algorithm.
 - `rhip.py`: Contains the implementation of the RHIP algorithm and related functions.
-- `utils/`: Utility functions and additional modules (if any).
+- `utils/`: Utility functions and additional modules.
 
 ## Contributing
 
